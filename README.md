@@ -9,5 +9,9 @@ Automation is done using Selenium Webdriver with testng.
  - Install gradle
  
 ## Run 
+```
 - cd pillowCheckout/pillow_project/
+```
+```
 - $ gradle test
+```
